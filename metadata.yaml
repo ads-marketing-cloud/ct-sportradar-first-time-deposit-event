@@ -2,8 +2,12 @@ homepage: "https://sportradar.com"
 documentation: "https://github.com/ads-marketing-cloud/ct-sportradar-first-time-deposit-event"
 versions:
  # Latest version
+ - sha: c8248a24bfefcea66c9eacb48d1115c7ce605fb6
+   changeNotes: Adds template test.
+ # Older versions
+ - sha: db3a1085c54258b426bccfc7e2696a86ac8e3ee0
+   changeNotes: Updates metadata file.
  - sha: 7d88ac9d59497200e7dfb69d2aefe0f0cbfd5ab9
    changeNotes: Create initial template.
- # Older versions
  - sha: 5023ae4c57ee197532f54ea222c1486e4247e5ff
    changeNotes: Create repository.
